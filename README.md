@@ -1,6 +1,6 @@
 # Movie-Recommendation
 Selection of top rated movies and its genre detection on the basis of emotion provided by the user.
-Our project employs the technique of web scraping for accomplishing its task.\
+Our project employs the technique of web scraping for accomplishing its task.
 ## Web Scraping Using Python :
 Web Scraping involves extracting and processing vast amount of data from a website.\
 We accomplish this preferably using python as it provides a lot of libraries and functions which expedites the process.
